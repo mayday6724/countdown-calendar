@@ -1,0 +1,22 @@
+{
+  "name": "Xmas Whisper Calendar",
+  "short_name": "XmasWhisper",
+  "description": "Japanese-style Christmas Advent Calendar",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fdfbf7",
+  "theme_color": "#fdfbf7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3697/3697263.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3697/3697263.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
